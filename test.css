@@ -248,11 +248,53 @@ margin-bottom: 10px; /* Adjust the margin-bottom to move the h4 tag up */
         display: none;
     }
 
+
     .nav-links li {
         margin-right: 0;
         margin-bottom: 10px;
     }
 
+
+   
+    .pap a{
+        display: none;
+        
+    }
+
+   
+   
+    .pap.res a {
+        display: block;
+       
+
+       
+    }
+
+    .nono{
+        background-color: black;
+        width: 70px;
+        
+       
+      }
+
+      .nono a{
+        
+        color: white;
+      }
+
+      .nono .active{
+      
+        color: tomato;
+      }
+
+      .nono .black:hover{
+      
+        color: tomato;
+      }
+
+    
+
+    
     .button-container {
         margin-top: 20px;
     }
@@ -292,6 +334,9 @@ margin-bottom: 10px; /* Adjust the margin-bottom to move the h4 tag up */
     .colu{
         padding: 20px;
     }
+
+
+
     .pic{
     width: 310px;
     height: 205.556px;
@@ -386,9 +431,13 @@ margin-bottom: 10px; /* Adjust the margin-bottom to move the h4 tag up */
         display: none;
         padding: 20px;
     }
+
+    
     .m{
         display: none;
     }
+
+    
 }
 
 
